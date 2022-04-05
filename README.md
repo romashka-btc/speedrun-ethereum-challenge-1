@@ -1,3 +1,5 @@
+You can try it here: https://rich-insurance.surge.sh/
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 1: 🥩 Decentralized Staking App
