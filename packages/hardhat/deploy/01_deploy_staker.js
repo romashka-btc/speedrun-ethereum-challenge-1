@@ -49,7 +49,7 @@ module.exports = async ({ getNamedAccounts, deployments, getChainId }) => {
   // todo: uncomment to verify your contract
   // if (chainId !== "31337") {
   //   try {
-  //     console.log(" 🎫 Verifing Contract on Etherscan... ");
+  //     console.log(" 🎫 Verifying Contract on Etherscan... ");
   //     await sleep(3000); // wait 3 seconds for deployment to propagate bytecode
   //      await run("verify:verify", {
   //        address: Staker.address,
